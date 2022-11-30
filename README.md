@@ -1,1 +1,1 @@
-Vagrant test Repository
+First Vagrant repository.
